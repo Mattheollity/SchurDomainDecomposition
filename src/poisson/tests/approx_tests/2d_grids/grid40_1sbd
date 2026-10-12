@@ -1,0 +1,15 @@
+dim
+2
+
+bbox
+0 0
+1 1
+
+vbbox
+40 40
+
+amountsubd 1
+sections
+subd
+0 0
+1 1
